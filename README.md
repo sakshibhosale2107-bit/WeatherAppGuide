@@ -66,8 +66,3 @@ Shows basic Kotlin skills needed for beginner Android tasks.
 
 ✔️ Final Output
 
-## 📸 Output Screenshot
-
-![screenshots][def]
-
-[def]: output_screenshot.png
